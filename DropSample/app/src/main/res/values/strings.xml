@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">DropSample</string>
-    <string name="drop">Drop!</string>
+    <string name="goto_office">出社しました。</string>
+    <string name="cant_goto_office">電車運休のため出社できませんでした。</string>
 </resources>
